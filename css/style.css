@@ -1,0 +1,17 @@
+hr{
+    color: white;
+    border-style: dotted none none;
+    width: 15%;
+    border-color: black;
+    border-width: 5px;
+    
+}
+body{
+    /*background-image: url(https://digitalsynopsis.com/wp-content/uploads/2017/02/beautiful-color-gradients-backgrounds-070-aqua-splash.png);
+    background-image: url(https://digitalsynopsis.com/wp-content/uploads/2017/02/beautiful-color-gradients-backgrounds-030-happy-fisher.png);
+    background: default;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    background-color: #EAF6f6;
+}
+
